@@ -473,17 +473,17 @@ section.skills .skill .item1 .progress-bar{
 section.skills .skill .item1 .progress-bar .progress{
 
     height: 100%;
-    width: 90%;
+    width: 80%;
     background: var(--color-primary);
  }
  section.skills .skill .item1:nth-child(2) .progress-bar .progress{
    
-    width: 80%;
+    width: 70%;
   
  }
  section.skills .skill .item1:nth-child(3) .progress-bar .progress{
     
-    width: 70%;
+    width: 75%;
     
  }
  section.skills .skill .item1:nth-child(4) .progress-bar .progress{
@@ -502,39 +502,35 @@ section.skills .skill .item1 .progress-bar .progress{
 section.skills .skill .item2 .progress-bar .progress{
 
     height: 100%;
-    width: 100%;
+    width: 92%;
     background: var(--color-primary);
  }
  section.skills .skill .item2:nth-child(2) .progress-bar .progress{
    
-    width: 92%;
+    width: 70%;
   
  }
  section.skills .skill .item2:nth-child(3) .progress-bar .progress{
     
-    width: 70%;
+    width: 95%;
     
  }
  section.skills .skill .item2:nth-child(4) .progress-bar .progress{
     
-    width: 95%;
+    width: 80%;
     
  }
  section.skills .skill .item2:nth-child(5) .progress-bar .progress{
     
-    width: 80%;
+    width: 53%;
     
  }
  section.skills .skill .item2:nth-child(6) .progress-bar .progress{
     
-    width: 53%;
+    width: 15%;
     
  }
- section.skills .skill .item2:nth-child(7) .progress-bar .progress{
-    
-    width: 9%;
-    
- }
+ 
 
  /* **************Projrct******************* */
  section.recent-work{

@@ -14,7 +14,7 @@ menuBtn.addEventListener('click', () => {
 //to hide menu
 closeBtn.addEventListener('click', () => {
     menu.style.display = 'none';
-    menuBtn.style.display = 'nline-block';
+    menuBtn.style.display = 'inline-block';
     closeBtn.style.display = 'none ';
 })
 
@@ -96,3 +96,7 @@ skill2.addEventListener('click', ()=>{
         alert.style.display='inline-block'
         alert("Sorry,Currently Not Offering Services....");
     })
+function serviceNot(){
+    alert("Sorry,Currently Not Offering Services....");
+
+}
